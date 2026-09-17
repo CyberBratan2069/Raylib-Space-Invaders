@@ -41,9 +41,9 @@ Windows:
 
 <h3>2. clone repo</h3>
 
-- git clone https://github.com/dein-user/SpaceInvaders.git
+- git clone https://github.com/CyberBratan2069/Raylib-Space-Invaders.git
 
-- cd SpaceInvaders
+- cd Raylib-Space-Invaders
 
 <h3>3. build</h3>
 bash:
